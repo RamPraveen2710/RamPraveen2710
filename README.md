@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm🌱 Ram Praveen</h1>
 <h3 align="center">A Passionate Third-year Computer Science student with a keen interest in Machine Learning and Software development. Proficient in Various programming languages like (Python,Java), SQL, and machine learning. Looking for an Internship Opportunity to Upskill myself.</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rampraveen2710&label=Profile%20views&color=0e75b6&style=flat" alt="rampraveen2710" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rampraveen2710" alt="rampraveen2710" /></a> </p>
-
 - 🔭 I’m currently working on **Underwater Object Detection Project**
 
 - 🌱 I’m currently learning **Machine leaning,Data Structures, Adv Python**
@@ -22,6 +17,11 @@
 - 📫 How to reach me **rampraveen2710@gmail.com**
 
 - ⚡ Fun fact **I am Tecky**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rampraveen2710&label=Profile%20views&color=0e75b6&style=flat" alt="rampraveen2710" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rampraveen2710" alt="rampraveen2710" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
